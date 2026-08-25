@@ -2,8 +2,8 @@
   "name": "startfrommars-site",
   "private": true,
   "scripts": {
-    "format": "prettier --write README.md index.html styles.css package.json package-lock.json .github/dependabot.yml .github/workflows/ci.yml",
-    "format:check": "prettier --check README.md index.html styles.css package.json package-lock.json .github/dependabot.yml .github/workflows/ci.yml"
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "devDependencies": {
     "prettier": "latest"
