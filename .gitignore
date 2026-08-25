@@ -1,0 +1,9 @@
+# Installed development dependencies
+node_modules/
+
+# npm diagnostics
+npm-debug.log*
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
